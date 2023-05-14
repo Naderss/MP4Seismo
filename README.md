@@ -1,2 +1,2 @@
 # MP4Seismo
-Computed Matrix Profile for Seismological data
+The Computed Matrix Profile repository for seismic data
